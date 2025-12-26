@@ -1,11 +1,10 @@
-# Customer Evidence
+# Transcripts
 
-Evidence that the problem exists. Shows who's affected and how badly.
+Meeting transcripts go here. Export from Granola or paste as markdown.
 
 **Expected files:**
-- Customer call transcripts or notes
-- Support tickets (export or summary)
-- Customer feedback or survey responses
-- Validation/testing feedback (later in project)
+- Kickoff transcript (required)
+- Design review transcript (required for 02_Ship)
+- Any other relevant meeting transcripts
 
-**Naming:** `[type]-[source]-YYYY-MM-DD.md`
+**Naming:** `[meeting-type]-YYYY-MM-DD.md`
